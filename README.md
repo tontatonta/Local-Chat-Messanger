@@ -1,4 +1,4 @@
-## lcm_clients.py: クライアント側
+## lcm_client.py: クライアント側
 
 ### 概要
 
